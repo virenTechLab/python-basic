@@ -1,2 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose
+passlib[bcrypt]
+slowapi
+python-multipart
+
 selenium==4.18.1
 webdriver-manager==4.0.1
